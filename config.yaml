@@ -35,7 +35,7 @@ TRAKT:
     CLIENTSECRET: f29e99f8fe172aa5ab7025b1d0514404f3dd72e7adf9df91c7f677945ffe9415
     # Trakt account email address (not to be confused with username)
     # You need to replace this value with your own, the default value is for illustrative purposes only
-    EMAIL: spamindenmark@gmail.com
+    EMAIL: skrivskithar@gmail.com
     # Trakt account password
     # You need to replace this value with your own, the default value is for illustrative purposes only
     PASSWORD: }TRiC6~G6GC:Y'C
